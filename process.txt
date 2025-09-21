@@ -1,0 +1,33 @@
+BASIC SET UP
+
+npm init -y
+npm i express
+npm i ejs
+npm i mongoose
+
+BASIC app.js set up & mongoose connection
+
+listing model schema creation
+Exporting in app.js
+
+Root route
+
+testListing route
+
+Route and sample data inserting to the db
+
+
+Initialize database
+
+Sample data is add through init folder -- data.js
+Tested index.js data is added to the database
+
+
+CREATION OF ROUTES REST API
+
+
+
+
+Idex route creation
+
+
